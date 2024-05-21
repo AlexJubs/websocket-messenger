@@ -1,0 +1,4 @@
+/Users/alexjabbour/Desktop/Projects/websocket-messenger/server/CMakeFiles/jsoncpp.dir
+/Users/alexjabbour/Desktop/Projects/websocket-messenger/server/CMakeFiles/server.dir
+/Users/alexjabbour/Desktop/Projects/websocket-messenger/server/CMakeFiles/edit_cache.dir
+/Users/alexjabbour/Desktop/Projects/websocket-messenger/server/CMakeFiles/rebuild_cache.dir
